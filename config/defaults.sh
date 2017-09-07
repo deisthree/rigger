@@ -14,7 +14,7 @@ export RIGGER_SECRETS_FILE="${RIGGER_HOME}/.secrets"
 #suggestions
 export SUGGEST_DEV_REGISTRY="registry.hub.docker.com"
 export SUGGEST_GOPATH="${HOME}/go"
-export SUGGEST_DEIS_GIT_REPO="https://github.com/deis/deis.git"
+export SUGGEST_DEIS_GIT_REPO="https://github.com/deisthree/deis.git"
 export SUGGEST_DEIS_GIT_VERSION="master"
 export SUGGEST_DEIS_VERSION="1.12.3"
 

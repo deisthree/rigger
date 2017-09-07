@@ -12,7 +12,7 @@
 * Get `rigger`:
 
   ```
-  git clone https://github.com/deis/rigger.git
+  git clone https://github.com/deisthree/rigger.git
 
   cd rigger
   ```
@@ -35,7 +35,7 @@
 
 ### Design
 
-- https://github.com/deis/deis/issues/4345
+- https://github.com/deisthree/deis/issues/4345
 
 ### Why the name?
 
